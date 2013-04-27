@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Subnet Quick</string>
+    <string name="action_settings">Settings</string>
+    <string name="c">"Network class: "</string>
+    <string name="n">"Network: "</string>
+    <string name="s">"Subnets: "</string>
+    <string name="b">"Broadcast: "</string>
+    <string name="h">"Hosts: "</string>
+    <string name="m">"Subnet mask: "</string>
+    <string name="d">.</string>
+    <string name="A">Private A</string>
+    <string name="B">Private B</string>
+    <string name="C">Private C</string>
+    <string name="prev">Previous</string>
+    <string name="next">Next</string>
+    <string name="title_activity_trap">TrapActivity</string>
+
+</resources>

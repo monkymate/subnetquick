@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SubnetQuick</string>
+    <string name="action_settings">Nastavenia</string>
+    <string name="c">"Sieť triedy: "</string>
+    <string name="n">"Sieť: "</string>
+    <string name="s">"Podsiete: "</string>
+    <string name="b">"Broadcast: "</string>
+    <string name="h">"Hostitelia: "</string>
+    <string name="m">"Maska podsiete: "</string>
+    <string name="d">.</string>
+    <string name="A">Privátna A</string>
+    <string name="B">Privátna B</string>
+    <string name="C">Privátna C</string>
+    <string name="prev">Predošlé</string>
+    <string name="next">Ďalej</string>
+
+</resources>
